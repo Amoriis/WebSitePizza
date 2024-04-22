@@ -1,1 +1,2 @@
 <link href="https://file.myfontastic.com/3j45yvRpaWhzeStdASehh9/icons.css" rel="stylesheet">
+<script src="https://kit.fontawesome.com/52c1e83e7d.js" crossorigin="anonymous"></script>

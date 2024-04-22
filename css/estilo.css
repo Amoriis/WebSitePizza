@@ -131,10 +131,10 @@ h1,h2,h3,h4,h5{
     
 }
 .menu__link:hover{
-     background-color: #DE423A;
+     background-color: #0004fa;
 }
 .menu__link--select{
-    background-color: #DE423A;
+    background-color: #00aeff;
     
 }
 .mostrar{
@@ -176,7 +176,7 @@ h1,h2,h3,h4,h5{
 
 /*----------------Estilos Principales------------------*/
 .group--color .container{
-	background-color: #DE423A;
+	background-color: #0004fa;
 	padding: 10px;
 	text-align: center;
 	
@@ -184,8 +184,7 @@ h1,h2,h3,h4,h5{
 .main__title{
 	margin: 15px 0;
 	font-size: 2.8em;
-	font-family: 'Sacramento',cursive;
-	
+	font-family: 'Courier New', Courier, monospace;	
 }
 .column__title{
 	font-size: 1.3em;
@@ -199,14 +198,14 @@ h1,h2,h3,h4,h5{
 	text-align: center;
 	text-decoration: none;
 	width: 120px;
-	background: #DE423A;
+	background: #00aeff;
 	color: #fff;
 	padding:10px;
 	margin: 10px auto;
 	
 }
 .group__title{
-	font-family:'Sacramento',cursive;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	text-align: center;
 	font-weight: bold;
 	font-size: 1.8em;
